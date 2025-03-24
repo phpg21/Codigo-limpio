@@ -1,0 +1,3 @@
+El código esta probado en Google colab, la celda de instalar el fpdf tiene que ser en una celda sola, lo demás puede ir junto, aunque lo mejor es que esten las importaciones en una celda a parte
+
+Hay 2 pruebas, las pruebas unitarias y las prueba del menú, se encuentran comentadas, puede generar algunos errores, esto debido a que no se encuentra un usuario, una contraseña, un pdf u otros requerimientos.
